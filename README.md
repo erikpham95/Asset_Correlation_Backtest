@@ -94,10 +94,10 @@ Verifying common “market wisdom” regarding asset correlations
 
 ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic2_DXY_vs_QQQ.png)
 
--   The 10-year correlation is 0.48 (for SPY) and 0.42 (for QQQ),
+    -   The 10-year correlation is 0.48 (for SPY) and 0.42 (for QQQ),
     against initial believe (rising USD cause stock to fall)
 
--   The correlation between different time period is vastly different
+    -   The correlation between different time period is vastly different
     from each other (The negative correlation are much stronger in 2022
     onwards
 
@@ -106,10 +106,10 @@ Verifying common “market wisdom” regarding asset correlations
 
 ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic3_GLD_vs_DXY.png)
 
--   The 10-year correlation is 0.28, against initial believe (rising USD
+    -   The 10-year correlation is 0.28, against initial believe (rising USD
     cause gold to fall)
 
--   The correlation between different time period is vastly different
+    -   The correlation between different time period is vastly different
     from each other (The negative correlation are much stronger in 2022
     onwards
 
@@ -119,33 +119,33 @@ Verifying common “market wisdom” regarding asset correlations
 
 ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic4_GLD_vs_SLV.png)
 
--   The 10-year correlation is 0.78, very consistent in the 10-yr
+    -   The 10-year correlation is 0.78, very consistent in the 10-yr
     period, follow initial believe (gold and silver are highly
     correlated)
 
--   Silver offer lower return with more volatility
+    -   Silver offer lower return with more volatility
 
 
 -   GLD vs GDX
 
 ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic5_GLD_vs_GDX.png)
 
--   The 10-year correlation is 0.92, very consistent in the 10-yr
+    -   The 10-year correlation is 0.92, very consistent in the 10-yr
     period, follow initial believe (gold and gold miner are highly
     correlated)
 
--   Gold miner offer slightly lower return (dividend not yet accounted)
+    -   Gold miner offer slightly lower return (dividend not yet accounted)
     with more volatility
 
 -   GLD vs SPY
 
 ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic6_GLD_vs_SPY.png)
 
--   The 10-year correlation is 0.92, very consistent in the 10-yr
+    -   The 10-year correlation is 0.92, very consistent in the 10-yr
     period, against initial believe (gold offer diversification to
     stock)
 
--   Gold provide much lower return than SPY
+    -   Gold provide much lower return than SPY
 
 #### c.  US Market Segments
 
@@ -153,13 +153,13 @@ Verifying common “market wisdom” regarding asset correlations
 
 ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic7_%20TLT_vs_SPY.png)
 
--   The 10-year correlation is 0.52, but the correlation changed greatly
+    -   The 10-year correlation is 0.52, but the correlation changed greatly
     over time.
 
--   It's worth noticing that bond performance in the last 10 years are
+    -   It's worth noticing that bond performance in the last 10 years are
     very "abnormal" because of FED's QE and low interest rate.
 
--   TLT provide much lower return than SPY, without diversification
+    -   TLT provide much lower return than SPY, without diversification
     effect.
 
 
@@ -169,10 +169,10 @@ Verifying common “market wisdom” regarding asset correlations
 
 ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic9_IWM_vs_SPY.png)
 
--   The correlation between SPY and IWR (0.99) and IWM (0.95) are very
+    -   The correlation between SPY and IWR (0.99) and IWM (0.95) are very
     high & consistent
 
--   SPY outperform due to the contribution of "megacap" stocks like the
+    -   SPY outperform due to the contribution of "megacap" stocks like the
     FAANG
 
 ### 2.  Oil & Nat Gas
@@ -187,22 +187,22 @@ Verifying common “market wisdom” regarding asset correlations
 
 ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic12_Oil_vs_XES.png)
 
--   The correlation between Oil price and XLE (0.71), XOP (0.65) and XES
+    -   The correlation between Oil price and XLE (0.71), XOP (0.65) and XES
     (0.41) are significant, as expected
 
--   XLE and XOP are more correlated to Oil Price than XES, as expected
+    -   XLE and XOP are more correlated to Oil Price than XES, as expected
 
--   XES perform very badly for the period from 2014-2021, due to
+    -   XES perform very badly for the period from 2014-2021, due to
     underinvestment in energy sector
 
 -   CL=F vs NG=F
 
 ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic13_Oil_vs_NatGas.png)
 
--   The correlation between oil and natural gas price are significant
+    -   The correlation between oil and natural gas price are significant
     (0.7), as expected
 
--   Recently, natural gas price are much more volatile (Ukraine --
+    -   Recently, natural gas price are much more volatile (Ukraine --
     Russia war)
 
 #### b.  CL=F vs CAD.USD (EWC) vs AUD.USD (EWA)
@@ -213,10 +213,10 @@ Verifying common “market wisdom” regarding asset correlations
 
 ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic15_Oil_vs_EWC.png)
 
--   The correlation between Oil price and CAD.USD (0.64) and EWC (0.51)
+    -   The correlation between Oil price and CAD.USD (0.64) and EWC (0.51)
     are significant, as expected
 
--   It's crucial to monitor the USD and US economy when analyzing Canada
+    -   It's crucial to monitor the USD and US economy when analyzing Canada
     currency / economy / stock market
 
 -   CL=F vs AUD.USD / EWA
@@ -225,8 +225,8 @@ Verifying common “market wisdom” regarding asset correlations
 
 ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic17_Oil_vs_EWA.png)
 
--   The correlation between Oil price and AUD.USD (0.47) and EWA (0.45)
+    -   The correlation between Oil price and AUD.USD (0.47) and EWA (0.45)
     are significant, as expected
 
--   It's crucial to monitor the China economy when analyzing Australia
+    -   It's crucial to monitor the China economy when analyzing Australia
     currency / economy / stock market
