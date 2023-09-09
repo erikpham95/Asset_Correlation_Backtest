@@ -104,7 +104,7 @@ Verifying common “market wisdom” regarding asset correlations
 
 -   DXY vs GLD
 
-![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic3_GLD_vs_DXY.png)
+    ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic3_GLD_vs_DXY.png)
 
     -   The 10-year correlation is 0.28, against initial believe (rising USD
     cause gold to fall)
@@ -117,7 +117,7 @@ Verifying common “market wisdom” regarding asset correlations
 
 -   GLD vs SLV
 
-![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic4_GLD_vs_SLV.png)
+    ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic4_GLD_vs_SLV.png)
 
     -   The 10-year correlation is 0.78, very consistent in the 10-yr
     period, follow initial believe (gold and silver are highly
@@ -128,7 +128,7 @@ Verifying common “market wisdom” regarding asset correlations
 
 -   GLD vs GDX
 
-![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic5_GLD_vs_GDX.png)
+    ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic5_GLD_vs_GDX.png)
 
     -   The 10-year correlation is 0.92, very consistent in the 10-yr
     period, follow initial believe (gold and gold miner are highly
@@ -139,7 +139,7 @@ Verifying common “market wisdom” regarding asset correlations
 
 -   GLD vs SPY
 
-![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic6_GLD_vs_SPY.png)
+    ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic6_GLD_vs_SPY.png)
 
     -   The 10-year correlation is 0.92, very consistent in the 10-yr
     period, against initial believe (gold offer diversification to
@@ -151,7 +151,7 @@ Verifying common “market wisdom” regarding asset correlations
 
 -   TLT vs SPY
 
-![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic7_%20TLT_vs_SPY.png)
+    ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic7_%20TLT_vs_SPY.png)
 
     -   The 10-year correlation is 0.52, but the correlation changed greatly
     over time.
@@ -165,9 +165,9 @@ Verifying common “market wisdom” regarding asset correlations
 
 -   SPY vs IWR vs IWM
 
-![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic8_IWR_vs_SPY.png)
+    ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic8_IWR_vs_SPY.png)
 
-![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic9_IWM_vs_SPY.png)
+    ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic9_IWM_vs_SPY.png)
 
     -   The correlation between SPY and IWR (0.99) and IWM (0.95) are very
     high & consistent
@@ -181,11 +181,11 @@ Verifying common “market wisdom” regarding asset correlations
 
 -   CL=F vs XLE / XOP / XES
 
-![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic10_Oil_vs_XLE.png)
+    ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic10_Oil_vs_XLE.png)
 
-![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic11_Oil_vs_XOP.png)
+    ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic11_Oil_vs_XOP.png)
 
-![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic12_Oil_vs_XES.png)
+    ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic12_Oil_vs_XES.png)
 
     -   The correlation between Oil price and XLE (0.71), XOP (0.65) and XES
     (0.41) are significant, as expected
@@ -197,7 +197,7 @@ Verifying common “market wisdom” regarding asset correlations
 
 -   CL=F vs NG=F
 
-![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic13_Oil_vs_NatGas.png)
+    ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic13_Oil_vs_NatGas.png)
 
     -   The correlation between oil and natural gas price are significant
     (0.7), as expected
@@ -209,9 +209,9 @@ Verifying common “market wisdom” regarding asset correlations
 
 -   CL=F vs CAD.USD / EWC
 
-![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic14_Oil_vs_CAD.USD.png)
+    ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic14_Oil_vs_CAD.USD.png)
 
-![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic15_Oil_vs_EWC.png)
+    ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic15_Oil_vs_EWC.png)
 
     -   The correlation between Oil price and CAD.USD (0.64) and EWC (0.51)
     are significant, as expected
@@ -221,9 +221,9 @@ Verifying common “market wisdom” regarding asset correlations
 
 -   CL=F vs AUD.USD / EWA
 
-![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic16_Oil_vs_AUD.USD.png)
+    ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic16_Oil_vs_AUD.USD.png)
 
-![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic17_Oil_vs_EWA.png)
+    ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic17_Oil_vs_EWA.png)
 
     -   The correlation between Oil price and AUD.USD (0.47) and EWA (0.45)
     are significant, as expected
