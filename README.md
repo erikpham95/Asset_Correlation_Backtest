@@ -90,9 +90,9 @@ Verifying common “market wisdom” regarding asset correlations
 
 -   DXY vs SPY / QQQ
 
-![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic1_%20DXY_vs_SPY.png)
+    ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic1_%20DXY_vs_SPY.png)
 
-![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic2_DXY_vs_QQQ.png)
+    ![Use this template](https://github.com/erikpham95/Asset_Correlation_Backtest/blob/main/Pic/Pic2_DXY_vs_QQQ.png)
 
     -   The 10-year correlation is 0.48 (for SPY) and 0.42 (for QQQ),
     against initial believe (rising USD cause stock to fall)
